@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Áo thun cotton trắng",
+        "price": 179000,
+        "soluong": 32,
+        "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=700&q=85"
+    },
+    {
+        "name": "Áo hoodie thể thao",
+        "price": 499000,
+        "soluong": 16,
+        "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=700&q=85"
+    },
+    {
+        "name": "Giày running đỏ",
+        "price": 1090000,
+        "soluong": 9,
+        "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=700&q=85"
+    },
+    {
+        "name": "Áo sơ mi thanh lịch",
+        "price": 389000,
+        "soluong": 17,
+        "image": "https://images.unsplash.com/photo-1598032895397-b9472444bf93?w=700&q=85"
+    },
+    {
+        "name": "Kính mát phong cách",
+        "price": 299000,
+        "soluong": 34,
+        "image": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=700&q=85"
+    },
+    {
+        "name": "Áo thun",
+        "price": 79000,
+        "soluong": 5,
+        "image": "https://res.cloudinary.com/cicjv3yc/image/upload/v1794401887/g54prnh1h7a3awcoejku.jpg"
+    },
+    {
+        "name": "Váy midi mùa hè",
+        "price": 530000,
+        "soluong": 13,
+        "image": "https://images.unsplash.com/photo-1496747611176-843222e1e57c?w=700&q=85"
+    },
+    {
+        "name": "Áo khoác da cá tính",
+        "price": 890000,
+        "soluong": 7,
+        "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=700&q=85"
+    },
+    {
+        "name": "Đồng hồ tối giản",
+        "price": 1250000,
+        "soluong": 8,
+        "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=700&q=85"
+    },
+    {
+        "name": "Giày thể thao Classic",
+        "price": 940000,
+        "soluong": 20,
+        "image": "https://images.unsplash.com/photo-1608231387042-66d1773070a5?w=700&q=85"
+    },
+    {
+        "name": "Giày sneaker trẻ trung",
+        "price": 799000,
+        "soluong": 26,
+        "image": "https://images.unsplash.com/photo-1600185365926-3a2ce3cdb9eb?w=700&q=85"
+    },
+    {
+        "name": "Giày sneaker trắng",
+        "price": 890000,
+        "soluong": 7,
+        "image": "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=700&q=85"
+    },
+    {
+        "name": "Ao thun nam",
+        "price": 160000,
+        "soluong": 20,
+        "image": "https://res.cloudinary.com/cicjv3yc/image/upload/v1794400581/wbikt2e51rtqumady9vd.webp"
+    },
+    {
+        "name": "Túi xách da thời trang",
+        "price": 659000,
+        "soluong": 11,
+        "image": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?w=700&q=85"
+    },
+    {
+        "name": "Balo du lịch năng động",
+        "price": 549000,
+        "soluong": 9,
+        "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=700&q=85"
+    },
+    {
+        "name": "Quần kaki tối giản",
+        "price": 425000,
+        "soluong": 12,
+        "image": "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?w=700&q=85"
+    },
+    {
+        "name": "Áo phông basic đen",
+        "price": 199000,
+        "soluong": 25,
+        "image": "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb?w=700&q=85"
+    },
+    {
+        "name": "Quần jeans xanh",
+        "price": 459000,
+        "soluong": 29,
+        "image": "https://images.unsplash.com/photo-1542272604-787c3835535d?w=700&q=85"
+    }
+]
